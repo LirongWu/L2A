@@ -65,7 +65,20 @@ where the *data_name* is one of the 8 datasets (Cora, Citeseer, BlagCatalog, Tex
 python main.py --dataset cora --model GCN
 ```
 
+## Citation
 
+If you are interested in our repository and our paper, please cite the following paper:
+
+```
+@inproceedings{wu2023learning,
+  title={Learning to Augment Graph Structure for both Homophily and Heterophily Graphs},
+  author={Wu, Lirong and Tan, Cheng and Liu, Zihan and Gao, Zhangyang and Lin, Haitao and Li, Stan Z},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={3--18},
+  year={2023},
+  organization={Springer}
+}
+```
 
 ## Acknowledgement
 
